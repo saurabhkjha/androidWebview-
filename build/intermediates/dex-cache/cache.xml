@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\WebView\lib\core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\WebView\app\build\intermediates\pre-dexed\debug\core-3.2.0-d094c9c83df0d82557e796b35e850a7c871fff50.jar" />
+    </item>
+    <item
+        jar="C:\Users\SESA373453\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\WebView\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-01a0372d37d8588602556e3f9760ed6649651e12.jar" />
+    </item>
+    <item
+        jar="C:\WebView\lib\com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02485f9a780729996e63aaa3234fa74432ab2765">
+        <dex dex="C:\WebView\app\build\intermediates\pre-dexed\debug\com.google.zxing.client.android.captureactivity-3e62eda0c3f26d1dd9a69fd673e3854cdb0cc917.jar" />
+    </item>
+
+</items>
